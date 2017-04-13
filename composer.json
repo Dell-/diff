@@ -1,0 +1,12 @@
+{
+    "name": "dell-/diff",
+    "license": "MIT",
+    "type": "library",
+    "description": "",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dell\\Diff\\": "src/Dell/Diff"
+        }
+    }
+}
